@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tp1</string>
+    <string name="closeButton">Fermer</string>
+    <string name="siteWebExtButtonText">Site Web (ext)</string>
+    <string name="siteWebWvButtonText">Mon Profil (wv)</string>
+    <string name="uLavalButtonText">ULaval</string>
+    <string name="monProfilButtonText">Mon Profil</string>
+</resources>
